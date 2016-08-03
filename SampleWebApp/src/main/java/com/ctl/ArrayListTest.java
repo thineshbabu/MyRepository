@@ -13,7 +13,7 @@ public class ArrayListTest {
 		list.add("Iniyavan");
 		for(String s: list)
 		{
-			System.out.println("Family Names = " + s);
+			System.out.println("Name = " + s + " ");
 		}
 	}
 }
